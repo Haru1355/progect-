@@ -1,41 +1,50 @@
-html {
+html {  
     font-size: 10px;
-    font-family: 'Open Sans', sans-serif;
-  }
-  
-  h1 {
-    font-size: 60px;
-    text-align: center;
-  }
-  
-  p, li {
+    font-family: 'Comic Sans MS';
+}
+p, li { 
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
-  }
-  
-  
-  html {
-    background-color:#3a4028;
-  }
-  
-  h1 {
-    margin: 0;
-    padding: 20px 0;
-    color: #fbfafa;
-    text-shadow: 3px 3px 1px rgb(9, 9, 9);
-  }
-  
-  img {
-    display: block; 
-    margin: 0 auto;
-  }
-  body
-  { background-image:url(../izb/167102-huawei_matepad_10_4-pishha-frukty-zhidkiy-prirodnye_produkty-1366x768.jpg); height: 700px;width: 1080px cover;
-    img { 
-        width: 100%; 
-        height: 300px; 
-        object-fit: cover; 
-        object-position: bottom; 
-    }
+    
 }
+html {
+    background-color: #3a4028;
+}
+#GLAV1{
+    margin-left: -10em;
+    margin-bottom: -2em ;
+    margin-top: 20em;
+    padding: 0px 0;
+    color: #fbfafa;
+    text-shadow: 3px 3px 1px rgb(0, 0, 0);
+    font-size: 10px;
+    padding-left: 350px;
+    }
+#GLAV2{
+    margin-top:0em ;
+    color: #fbfafa;
+    text-shadow: 3px 3px 1px rgb(9, 9,9);
+    font-size: 50px;
+    padding-left: 260px;
+    
+}
+ h2{
+    color: black;
+    text-shadow: 3px 3px 1px rgb(116, 109, 109);
+    font-size: 20px;
+ }
+img{
+        display:block ;
+        margin: 0 auto ;
+    }
+body
+    {background-image: url(../izb/-food-tableware-fruit-liquid-1920x1080.jpg);
+        height: 740px;width: 1080px ,cover;
+    }
+img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: bottom;
+    }
